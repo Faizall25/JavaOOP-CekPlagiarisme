@@ -1,0 +1,3 @@
+PlagiarismCheckerGUI$1
+PlagiarismCheckerGUI
+PlagiarismCheckerGUI$2
